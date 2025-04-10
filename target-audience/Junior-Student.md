@@ -68,9 +68,13 @@ This section will be suitable for students who have just embarked on a journey o
 
     - [Atom](#atom)
     - [Nucleus](#nucleus)
+    - [Fission](#fission)
+    - [Fusion](#fusion)
     - [Radiation](#radiation)
 
 - **[Space physics](#nuclear-physics)**
+
+    - [Star](#star)
 
 - **[The Origin of Natural Science](#the-origin-of-natural-science)** √
 
@@ -1374,6 +1378,7 @@ In order to undergo **nuclear fusion** reaction, nuclei need to collide with eac
 
 [Back to catalogue](#catalogue)
 
+
 ### Radiation
 
 In physics, **radiation** refers to the transmission of [energy](#energy) in the form of [waves](#waves) or subatomic particles moving in a vacuum or medium. Radiation can be divided into **ionizing radiation** and **non-ionizing radiation**. In this section, we will introduce three most typical types of ionizing radiation.
@@ -1408,9 +1413,31 @@ Ionizing radiation is extremely harmful to the human body. Long-term excessive a
 
 [Back to catalogue](#catalogue)
 
+### Fission
+
+**Nuclear fission**, also known as **fission reaction**, refers to the process in which a heavier (larger mass number) atomic [nucleus](#nucleus) splits into two or more lighter (smaller mass number) atomic nuclei. It is a form of nuclear reaction or radioactive decay. Nuclear fission releases [ionizing radiation](#radiation).
+
+After being hit by **neutrons**, some heavy atomic nuclei will fission into two lighter atoms, releasing several **neutrons** and **photons** in the form of **gamma rays**. The released neutrons will then hit other heavy atomic nuclei, thus forming a **chain reaction**. When a nucleus fissions, in addition to releasing neutrons, it will also release a lot of **heat energy**, which is the source of energy used by nuclear power plants to generate electricity. Therefore, the binding energy of nuclear fission products must be *greater* than the binding energy of reactants. This artificially induced nuclear fission is a type of **artificial nuclear reaction**. Uranium-235, uranium-233, plutonium-239 and other nuclides have a high probability of fissioning after being hit by neutrons, and have the ability to maintain a chain reaction. They are called **fissile materials**. Early atomic bombs were made of plutonium-239 as raw materials, while nuclear power plants mostly use uranium-235 fission as a heat source.
+
+In addition to nuclear fission induced by neutron impact, some heavy atomic nuclei can also spontaneously fission without the need for external factors such as neutrons, which is called **spontaneous fission** and is a form of **radioactive decay**. Spontaneous fission mainly occurs in some nuclides with very high mass numbers, such as curium-250, californium-254, and fermium-256.
+
+Nuclear fission of an element will transform it into another chemical element. The mass of the two atoms formed by fission will be slightly different. For common fissile nuclides, the mass ratio of the two atoms formed is about 3:2.
+
+[Back to catalogue](#catalogue)
+
+### Fusion
+
+**Nuclear fusion**, also known as **fusion reaction**, is a form of nuclear reaction that combines two lighter [nuclei](#nucleus) to form a heavier nucleus and an extremely light nucleus (or particle). In this process, matter is *not* conserved because part of the mass of the fusing nuclei is converted into **energy**. Nuclear fusion is the process that provides energy to [stars](#star).
+
+Atomic nuclei carry a positive [charge](#charge). Therefore, when two atomic nuclei approach each other, they will **repel** each other because they carry the same charge. At this time, they need to be given more energy to make them combine together. When two atomic nuclei with high enough energy meet head-on, the nuclear force will overcome the repulsive electromagnetic force and allow them to combine into new atoms, releasing extremely powerful energy, thus completing the **nuclear fusion reaction**.
+
+Since the distance between nuclei must be *very small* for the nuclear force to work, the nuclei must be aggregated together by **external** energy. Even in the extremely hot and dense center of the sun, each proton has to wait billions of years on average to participate in fusion. In order for fusion to be practical, the utilization rate of atomic nuclei must be greatly improved: the temperature must be raised to $10^{8}$ K, or extremely high pressure must be applied. Controlled nuclear fusion is still difficult to achieve.
+
+[Back to catalogue](#catalogue)
+
 ## **Space physics**
 
-
+### Star
 
 
 
