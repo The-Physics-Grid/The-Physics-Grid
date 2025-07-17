@@ -1477,6 +1477,4 @@ Olympiad medals and honours are awarded according to the following rules: Gold m
 
 [Back to catalogue](#catalogue)
 
-## **Practice questions**
-
-## **More References**
+This is the end of this section. For further study in physics, visit the section of [**Senior Student**](/target-audience/Senior-Student.md).
