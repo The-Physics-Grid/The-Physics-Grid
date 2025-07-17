@@ -1350,7 +1350,7 @@ where V₁ stands for primary voltage, V₂ stands for secondary voltage, N₁ s
 
 **I₁V₁=I₂V₂**
 
-where I₁ stands for primary current and I₂ stands for secondary current. This equation is only suitable for **ideal transformers**, which are transformers with 100% efficiency and the input power is equal to the output power. This is impossible in the reality since there is always energy loss. 
+where I₁ stands for primary current and I₂ stands for secondary current. This equation is only suitable for **ideal transformers**, which are transformers with 100% efficiency and the input power is equal to the output power. This is impossible in the reality since there is always energy loss.
 
 [Back to catalogue](#catalogue)
 
@@ -1360,7 +1360,7 @@ where I₁ stands for primary current and I₂ stands for secondary current. Thi
 
 **Atoms** are the **smallest units** of common matter that make up chemical elements; atoms are also the smallest particles in chemical changes and the smallest units of the chemical properties of elements.
 
-An atom contains a dense **nucleus** and a number of negatively charged **electrons** surrounding the nucleus. The nucleus of an **anti-atom** is negatively charged, and the surrounding anti-electrons are "positively charged", but we will not be discussing anti-atoms in this section. The nucleus of a positive atom is composed of positively charged **protons** and electrically neutral **neutrons**. When the number of protons and electrons is the same, the atom is electrically neutral and is called a **neutral atom**; otherwise, it is an **ion** with a positive or negative charge. 
+An atom contains a dense **nucleus** and a number of negatively charged **electrons** surrounding the nucleus. The nucleus of an **anti-atom** is negatively charged, and the surrounding anti-electrons are "positively charged", but we will not be discussing anti-atoms in this section. The nucleus of a positive atom is composed of positively charged **protons** and electrically neutral **neutrons**. When the number of protons and electrons is the same, the atom is electrically neutral and is called a **neutral atom**; otherwise, it is an **ion** with a positive or negative charge.
 
 Depending on the number of protons and neutrons, the type of atom is different: the number of protons determines which element the atom belongs to, and the number of neutrons determines which isotope of this element the atom is.
 
@@ -1449,45 +1449,7 @@ Stars are not immortal. Like us, they are born somewhere and will inevitably die
 
 - **
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Back to catalogue](#catalogue)
-
-
-
-
 
 ## **The Origin of Natural Science**
 
@@ -1500,6 +1462,7 @@ It is generally believed that the ancient Greeks Thales and Aristotle were the f
 [Back to catalogue](#catalogue)
 
 ## **Competitions**
+
 As for competitions, we will introduce some physics competitions suitable for junior students who are willing to improve themselves.
 
 ### The International Physics Olympiad
