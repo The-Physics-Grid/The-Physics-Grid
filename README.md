@@ -143,6 +143,16 @@ We welcome and appreciate your contribution to this project in various ways:
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
+## Reference
+
+The following is a comprehensive list of references and sources that have informed or been cited in the content of this repository (ranking in no particular order).
+
+- [Wikipedia](https://www.wikipedia.org/)
+- [Save My Exams](https://www.savemyexams.com/)
+- [Google Images](https://www.google.com/imghp?hl=zh-CN&ogbl)
+- [Bilibili](https://www.bilibili.com/)
+- [The Nobel Prize](https://www.nobelprize.org/)
+
 ## License
 
 This project is licensed under the CC0-1.0 License. See the [LICENSE](LICENSE) file for details.
