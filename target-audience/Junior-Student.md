@@ -1439,9 +1439,15 @@ Since the distance between nuclei must be *very small* for the nuclear force to 
 
 ### Star
 
+A **star** is a **celestial body**, a spherical glowing plasma held together by its own gravity. The **Sun** is the closest star to Earth. The observable universe is estimated to contain between 1022 and 1024 stars, but only about 4,000 are visible to the naked eye. They are all in the **Milky Way**.
 
+Stars undergo [fusion](#fusion) of hydrogen in their cores, which transmit energy from the star's interior outwards over a long path and then radiate from the surface into outer space. Once the nuclear reactions in the core are exhausted, the star's life is about to end. Astronomers determine a star's mass, age, metallicity (abundance of chemical elements), and many other properties by observing its motion in space, brightness, and spectrum. The total **mass** of a star is the main factor in its evolution and ultimate fate.
 
+#### **Life cycle of a star**
 
+Stars are not immortal. Like us, they are born somewhere and will inevitably die, except that stars have much longer lifespans than humans.
+
+- **
 
 
 
