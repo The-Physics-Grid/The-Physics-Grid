@@ -112,11 +112,11 @@ Velocity is a physical vector quantity; both amplitude and direction are require
 
 Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement d to the time interval during that time:
 
-**v=d/t**
+$$v=\frac{x}{t}$$
 
 The instantaneous velocity of an object at a given moment is defined as the rate of change of the position vector over time:
 
-**v=dd/dt**
+$$v=\frac{dx}{dt}$$
 
 The velocity of an object is usually mentioned in physics as its instantaneous velocity. The unit of speed in the International System of Units is meters per second, the international symbol is m/s, and the Chinese symbol is meters per second. In the framework of relativity, the upper limit of an object's velocity is the speed of light.
 
@@ -139,15 +139,19 @@ Specifically, acceleration describes the rate of change of velocity over time. I
 
 The average acceleration could be represented by the following equation:
 
-**a=(v-u)/t**
-
-or 
-
-**ā=Δv/Δt**
+$$a=\frac{v-u}{t}$$
 
 where a stands for average acceleration, v stands for final velocity, u stands for initial velocity and t stands for the time experienced.
 
-[Details](https://en.wikipedia.org/wiki/Acceleration#Instantaneous_acceleration)
+The instantaneous acceleration could be represented by the following equation:
+
+$$a=\frac{dv}{dt}$$
+
+which is similar to the expression for instantaneous velocity. According to the equation for velocity, the instantaneous acceleration can also be expressed as the second-order derivative of displacement x:
+
+$$a=\frac{d^2x}{dt^2}$$
+
+Similarly, **v** and **x** can both be deduced by integrating **a(t)**.
 
 [Back to catalogue](#catalogue)
 
@@ -155,7 +159,7 @@ where a stands for average acceleration, v stands for final velocity, u stands f
 
 Weight is the gravitational [force](#force). As a kind of force, weight is a vector quantity, which means it has both magnetude and direction. Gravity varies with **depth** and **latitude**.
 
-**W=mg**
+$$W=mg$$
 
 where W is weight, m is mass and g is the gravitational field strength. The gravitational field strength on Earth is approximately 9.8N/kg. 
 
@@ -167,7 +171,7 @@ When we use a balance to measure the mass of an object, the balance is actually 
 
 Density refers to the mass per unit volume of a substance, often denoted by the Greek letter ρ or the English letter D. Mathematically, density is defined as the quotient of mass divided by volume. That is, the ratio of the mass to the volume of an object.
 
-**ρ=m/V**
+$$ρ=\frac{m}{V}$$
 
 where ρ is density, m is mass, and V is volume.
 
@@ -203,9 +207,9 @@ In this section, we will also introduce some theory of [elasticity](#hookes-law)
 
 Shapes of objects can be changed by force. As for plastic objects, such as clay, they stays the same shape after the force is removed.As for elastic objects, such as string, they tend to return to their original shapes and therefore exert an elastic force against the force that changed their shapes. Hooke's law illustrates that a material resists with a force proportional to its extension or conpression before elastic limit, which is expressed as:
 
-**F=kx**
+$$F=-kx$$
 
-where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness".
+where F stands for force that changed the shape of the object, x stands for extension or compression and k stands for the spring constant, or so-called "stiffness". Since the elastic force will always be in the opposite direction of the extension of the object, there will be a negative sign.
 
 ![Force Extension Graph](/images/force_extension_graph.png)
 
@@ -263,11 +267,11 @@ The frictional force between solid surfaces is divided into state friction and d
 
     Newton's second law states that the external force exerted on an object is equal to the time-varying rate of the momentum of the object:
 
-    **F=dp/dt**
+    $$F=\frac{△p}{△t}$$
    
     where p is momentum and t is time. Since momentum is equal to mass multiplied by velocity, Newton's second law can be expressed as follows: the external force experienced by the object is equal to the product of mass and acceleration, and acceleration is in the same direction as the external force. Expressed in equations,
 
-    **F=ma**
+    $$F=ma$$
 
     where F is the external force, m is the mass, and a is the acceleration.
 
@@ -275,7 +279,7 @@ The frictional force between solid surfaces is divided into state friction and d
 
     Suppose an external force is applied to an object, since the acceleration of the object is only related to the external force and mass, in any case, the object with the same mass will exhibit the same acceleration:
 
-    **a=F/m**
+    $$a=\frac{F}{m}$$
 
     - ***Inertial frame of reference***: To know the acceleration of an object at a certain moment, the displacement of the object as a result of time must be measured from a stationary object (or an object moving in a straight line at a uniform velocity), while the stationary object (or an object moving in a straight line with uniform velocity) must remain in motion from an inertial frame of reference if the external force is zero, which means that the entire physical system must be measured from the inertial frame of reference. Therefore, Newton's second law assumes in advance that the acceleration of an object is a numerical value measured from an inertial frame of reference.
     - ***Conservation of mass***: Classical mechanics has a hidden assumption, the conservation of mass, which is also known as Newton's zero-law of motion. Newton did not directly propose this law. The zeroth law of motion states that the mass of an object is conserved, independent of velocity, and independent of the force exerted on the object. When several objects interact, there may be a transfer of mass from one object to another, but the total mass remains the same.
@@ -340,27 +344,6 @@ The circular motion of a particle can be decomposed in two directions: the **tan
 
 The tangential component of the acceleration of a particle is called tangential acceleration. The tangential acceleration changes the linear velocity of the particle along the orbit without changing the direction. The component of the acceleration in the normal becomes the normal acceleration. Since the normal acceleration is always directed towards the center of the circle in a circular motion, this acceleration is also known as **centripetal acceleration**. The centripetal acceleration changes the direction of the velocity of the particle and does not change the magnitude.
 
-A motion with a tangent acceleration of zero magnitude is called a uniform circular motion.
-
-For uniform circular motion, the following equation and component equation are met:
-
-- **θ=ωt**
-
-- **v=rω**
-
-- **a=rω²**
-
-- **ω=2π/T**
-
-where v is the linear velocity, a is the centripetal acceleration, T is the period,
-ω is the angular velocity (unit: rad/s).
-
-According to the formulas mentioned above, we can deduce new formulas to represent the centripetal acceleration a, for example **a=v²/r** and **a=vω**. These new equations will help us calculate the values in the real problem more quickly.
-
-[More about angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
-
-[More about circular motion](https://en.wikipedia.org/wiki/Circular_motion)
-
 [Back to catalogue](#catalogue)
 
 
@@ -370,7 +353,7 @@ According to the formulas mentioned above, we can deduce new formulas to represe
 
 The moment of a force is given by:
 
-**moment = F·d**
+$$moment = F·d$$
 
 where F stands for the force and d stands for the perpendicular distance from pivot. There is no official character symbol to represent moment. The usual unit for moment is the **newton-meter (Nm)**. From the formula, we can deduce that in order to make an object rotate, the farther the force is from the pivot, the less force is required. This is how **lever** structures in everyday life such as scissors, tongs, steering wheels, etc., work.
 
@@ -378,11 +361,11 @@ When an object is in **equilibrium**, both the resultant force and the sum of mo
 
 When forces act in a different direction, yet still balance or still in equilibrium, the total turning effect in each direction will be the same. If you consider forces and moments as vectors, as they have certain directions, the total turning effect on the balanced object would be 0. This could be represented as: 
 
-**sum of clockwise moments = sum of anti-clockwise moments**
+$$sum of clockwise moments = sum of anti-clockwise moments$$
 
 or
 
-**moment at point 1 + moment at point 2 = 0**
+$$moment at point 1 + moment at point 2 = 0$$
 
 [Back to catalogue](#catalogue)
 
@@ -398,7 +381,7 @@ The value of an object's momentum depends on the value of two physical quantitie
 
 Momentum is expressed as:
 
-**p=mv**
+$$p=mv$$
 
 where p stands for momentum, m stands for mass and v stands for velocity. The unit of momentum is kg·m/s.
 
@@ -406,7 +389,7 @@ Momentum has a special property: it remains constant as long as it is in a **clo
 
 In physics, this particular property is used to solve the problem of two objects that collide. Because momentum is always constant, the sum of momentum before the collision must be equal to the sum of momentum after the collision:
 
-**m₁v₁+m₂v₂=m₁v₁'+m₂v₂'**
+$$m₁v₁+m₂v₂=m₁v₁'+m₂v₂'$$
 
 It is important to note that at this time v is a vector.
 
@@ -442,13 +425,13 @@ Even if there is force, no work may be done. For example, in a uniform circular 
 
 According to the kinetic energy theorem, if an external force acts on an object to increase its kinetic energy from Ek0 to Ek, then the mechanical work done by this force is:
 
-**W=△Ek=Ek-Ek0=½m(v²-v0²)**
+$$W=△Ek=Ek-Ek0=½m(v²-v0²)$$
 
 where m is the mass of the object and v is the velocity of the object.
 
 Mechanical work is the internal product of force and displacement:
 
-**W=Fd**
+$$W=Fd$$
 
 If the angle between force and displacement is less than the right angle, then the mechanical work is positive, also known as the force doing positive work. If the angle between force and displacement is greater than the right angle, then the mechanical work is negative, or the force does negative work, or the object overcomes the force to do the work.
 
@@ -464,15 +447,21 @@ Energy conversion can do work, and power is also the rate at which work is done.
 
 **Formula**:
 
-- *Average power:* **P=W/t**
+- *Average power:* 
+
+    $$P=W/t$$
 
     Where P stands for power, W stands for total work done and t stands for the lasting time.
 
-- *Mechanical power:* **P=Fv**
+- *Mechanical power:* 
+
+    $$P=Fv$$
 
     Where P stands for power, F stands for force and v stands for velocity. This formula is deduced by the formula of work done "**W=Fd**" and the formula of velocity "**v=d/t**".
 
-- *Electrical power:* **P=VI**
+- *Electrical power:* 
+
+    $$P=VI$$
     
     Where P stands for power, V stands for voltage and I stands for current. This formula is deduced by the formula of electrical work done "**W=VIt**" and the formula of average power "**P=W/t**".
 
@@ -487,13 +476,8 @@ Various units are used to express pressure. Some of these derive from a unit of 
 Pressure is the amount of force applied perpendicular to the surface of an object per unit area. The symbol for it is "p" or P.[2] The IUPAC recommendation for pressure is a lower-case p.[3] However, upper-case P is widely used. The usage of P vs p depends upon the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on writing style.
 
 **Formula**
-Mathematically:  **p=F/A**
-where:
-- p is the pressure,
-- F is the magnitude of the normal force,
-- A is the area of the surface on contact.
-
-Pressure is a **scalar quantity**. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. 
+$$p=\frac{F}{A}$$
+where p is the pressure, F is the magnitude of the normal force, A is the area of the surface on contact.
 
 **Pressure in Liquid**
 
@@ -504,7 +488,7 @@ Properties:
 
 Formula:
 
-**p=ρgh**
+$$p=ρgh$$
 
 Where p stands for pressure, ρ stands for [density](#density), g stands for gravitational strength field and h stands for height (or depth, in the case of a liquid).
 
@@ -578,7 +562,7 @@ Most substances expand when they are heated, this is called thermal expansion. W
 
 Gases expand when they are heated, just like solids and liquids. When the gas is heated, its particles move faster and push with greater force on its surroundings, for example, the walls of the gas container. When the volume of the gas is conserved, the pressure it exerts will be directly proportional to the temperature change and vice versa. When the temperature is conserved, the pressure and volume of the gas are inversely proportional to each other. This is indicated by the **ideal gas formula**:
 
-**pV=nRT**
+$$pV=nRT$$
 
 Where P stands for pressure, V stands for volume, n stands for moles number of the gas, R stands for ideal gas constant and T stands for temperature (K).
 
@@ -630,7 +614,7 @@ The latent heat capacity refers to the amount of energy needed to completely cha
 
 **Formula**:
 
-**Q=mL**
+$$Q=mL$$
 
 Where Q represents energy needed, m represents mass and L represents specific latent heat (we use the word "specific" to mean that it relates to unit mass, which is 1kg).
 
@@ -644,7 +628,7 @@ The specific thermal capacity (or so-called SHC) of a substance is the amount of
 
 **Formula**:
 
-**Q=cm△t**
+$$Q=cm△t$$
 
 Where Q represents energy needed, m represents mass，c represents SHC and △t represents temperature changed. Both degrees celcius and kelvin are allowed to be the unit of the temperature changed.
 
@@ -700,11 +684,11 @@ There are two types of wave, **transverse** wave and **longitudinal** wave.
 
 There are two formulae of waves that you might need to remember: 
 
-**f=1/T**
+$$f=\frac{1}{T}$$
 
 where f refers to frequency and T refers to period. This is easy to understand according to their definitions.
 
-**v=λf**
+$$v=λf$$
 
 where v refers to the speed of wave propagation, λ refers to wavelength and f refers to frequency. This is also easy to understand since frequency could be considered as "1/time" according to the first formula and wavelength could be considered as distance, therefore "v=λf" is transferred into "v=s/t", which we already learned in the section of [velocity](#velocity).
 
@@ -825,7 +809,7 @@ The straight line passing through the center of the two faces of the lens is cal
 
 The distance from the object to the optical center of the lens is called the object distance, and the distance from the image formed by the object through the lens to the optical center of the lens is called the image distance. Then the imaging of convex and concave lenses satisfies the following formula:
 
-**1/u + 1/v = 1/f**
+$$\frac{1}{u} + \frac{1}{v} = \frac{1}{v}$$
 
 where u stands for the object distance, v stands for the image distance and f stands for the focal length. 
 
@@ -938,7 +922,7 @@ An electric current consists of **moving electric charges**. Electric current is
 
 The amount of charge passing through 1 coulomb per second is called 1 ampere. "Current intensity" is often simply referred to as "current" or "current amount". The formula used to calculate current intensity is shown below:
 
-**I=Q/t**
+$$I=\frac{Q}{t}$$
 
 where I stands for current intensity, Q stands for amount of charges and t stands for the time for charges to pass through. Ampere is one of the seven [basic units](#physics-quantities-and-units) of the International System of Units. An ammeter is an instrument specifically used to measure electric current.
 
@@ -970,7 +954,7 @@ In electrostatics, **electric potential** (ePtntl) is a physical scalar quantity
 
 Here is a formula to calculate the electric potential: 
 
-**V=E/Q**
+$$V=\frac{E}{Q}$$
 
 where V stands for voltage, E stands for energy or total work done and Q stands for the charge.
 
@@ -1034,15 +1018,6 @@ Usually, if wires are connected together, we draw a dot on the circuit diagram w
 
         **1/R=1/R₁+1/R₂+1/R₃+...**
 
-All circuits obey some basic circuit laws.
-
-- **Kirchhoff's current law:**
-
-     The sum of the currents flowing into a node is equal to the sum of the currents flowing out of the node.
-
-- **Kirchhoff's voltage law:**
-
-     The sum of the voltages around a loop is zero.
 
 [Back to catalogue](#catalogue) 
 
@@ -1055,13 +1030,13 @@ In electromagnetism, **resistance** is the ability of an object to oppose the fl
 
 The resistance of an object can be calculated using the **Resistance Law**, which is the **defining formula** of resistance:
 
-**R=ρL/A**
+$$R=ρ\frac{L}{A}$$
 
 where R stands for resistance of the object, ρ stands for the resistivity of its material, L stands for its length and A stands for its cross-sectional area. We can deduce from the formula that, an object's resistance is directly proportional to the resistivity and length, and inversely proportional to the cross-sectional area.
 
 We can figure out the resistance of a resistor connecting in a circuit by using **Ohm's Law**.
 
-**R=V/I**
+$$R=\frac{V}{I}$$
 
 where R stands for resistance, V stands for electric potential difference across the component and I stands for the current passing through it. This formula indicates that with fixed potential difference across, the current intensity will be inversely proportional to the resistance in the current. This formula is applicable to **pure resistance circuits**, that is, when there are only resistance elements and the resistance value is constant.
 
@@ -1129,15 +1104,15 @@ When [current](#electric-current) passes through a conductor, [heat](#heat-and-h
 
 The formula is shown below:
 
-- **Q=I²Rt**
+$$Q=I²Rt$$
 
-    where Q stands for heat produced, I stands for current intensity, R stands for resistance of the component that is producing heat and t stands for the time current is passing through.
+where Q stands for heat produced, I stands for current intensity, R stands for resistance of the component that is producing heat and t stands for the time current is passing through.
 
 Using **[Ohm's law](#resistance)**, we can deduce another two forms of formulae:
 
-- **Q=VIt**
+$$Q=VIt$$
 
-- **Q=V²t/R**
+$$Q=\frac{V²}{R}t$$
 
 Because Ohm's law is used in the derivation process, these derivation formulae is only applicable to **pure resistance circuits** like Ohm's law.
 
@@ -1145,11 +1120,11 @@ Because Ohm's law is used in the derivation process, these derivation formulae i
 
 Using the work and [power](#power) formula **W=P/t** and the formulae of Joule's law aforesaid, we can deduce the formulae to calculate electric power.
 
-- **P=I²R**
+$$P=I²R$$
 
-- **P=VI**
+$$P=VI$$
 
-- **P=V²/t**
+$$P=\frac{V²}{R}$$
 
 When using these formulae, the components must be linear, that is, the circuit must obey Ohm's law.
 
@@ -1344,11 +1319,11 @@ The number of turns in each coil depends on the type of the transformer: **step-
 
 Here are some equations used to calculate quantities involved in a transformer: 
 
-**V₁/V₂=N₁/N₂**
+$$\frac{V₁}{V₂}=\frac{N₁}{N₂}$$
 
 where V₁ stands for primary voltage, V₂ stands for secondary voltage, N₁ stands for number of turns in the primary coil and N₂ stands for number of turns in the secondary coil.
 
-**I₁V₁=I₂V₂**
+$$I₁V₁=I₂V₂$$
 
 where I₁ stands for primary current and I₂ stands for secondary current. This equation is only suitable for **ideal transformers**, which are transformers with 100% efficiency and the input power is equal to the output power. This is impossible in the reality since there is always energy loss.
 
