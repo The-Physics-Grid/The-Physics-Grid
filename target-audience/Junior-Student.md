@@ -1422,7 +1422,13 @@ Stars undergo [fusion](#fusion) of hydrogen in their cores, which transmit energ
 
 Stars are not immortal. Like us, they are born somewhere and will inevitably die, except that stars have much longer lifespans than humans.
 
-- **
+- **Protostar**
+
+    There are various substances in the universe, such as gas and dust. They are attractive to each other due to [gravitational force](#weight) and will be pulled together if they are close enough to each other. This forms the protostar, but it is not yet a *star* because the temperature of its center is not high enough for [nuclear fusion](#fusion) to occur. The substances in the protostar keep collapsing and being pulled toward the center.
+
+- **Star**
+
+    The temperature of the center of the protostar increases as its density increases and is soon high enough for **nuclear fusion** to occur. The energy released by the nuclear reaction produces an outward force which cancels out the inward gravitational force. When the two forces are balanced, the **star** is formed.
 
 [Back to catalogue](#catalogue)
 
