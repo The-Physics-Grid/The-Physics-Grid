@@ -1428,7 +1428,25 @@ Stars are not immortal. Like us, they are born somewhere and will inevitably die
 
 - **Star**
 
-    The temperature of the center of the protostar increases as its density increases and is soon high enough for **nuclear fusion** to occur. The energy released by the nuclear reaction produces an outward force which cancels out the inward gravitational force. When the two forces are balanced, the **star** is formed.
+    The temperature of the center of the protostar increases as its density increases and is soon high enough for **nuclear fusion** to occur. Hydrogen gas in the center of the star transforms into helium. The energy released by the nuclear reaction produces an outward force which cancels out the inward gravitational force. When the two forces are balanced, the **star** is formed.
+
+- **Red giant**
+
+    When the hydrogen fuel in the center of the star begins to run out, the rate of fusion decreases and the expanding force provided by it decreases as well. The star constracts under gravitational force and the center soon becomes hot enough for nuclear fusion of **helium** to occur. This is called a **helium flash**. The helium flash provides an extremely strong expanding force and the star expands into a **red giant**. 
+
+    When the mass of this star is very large (with 8 - 20 times the mass of the Sun), the expanding force provided by the helium flash occurred in it will be strong enough to accelerate substances to a speed that is one tenth of the speed of light. These stars become **supernovas**.
+
+- **White dwarf**
+
+    When all the nuclear fusions are finished, the star conpletely enters its old age and becomes a **white dwarf**. Its mass is still there, therefore it still has internal pressure and temperature. The white light it emitts is not from nuclear reactions, but simply **thermal radiation**.
+
+- **Neutron star**   (Only for massive stars)
+
+    If the mass of the star is so large that the gravitational force is still extremely strong when it has turned into a white dwarf, the structure of [atoms](#atom) will be crushed by gravity. **Electrons** will be crushed into protons and form a neutron as their [charges](#charge) cancells out. Thereby the main substance in the whole celestial body becomes neutrons, forming a **neutron star**.
+
+    However, the state of neutrons are not stable in the neutron star. They will experience [β-decay](#radiation) and turn into a proton, an electron and an antineutrino, therefore reaching a dynamic equilibrium.
+
+    If the mass of the star is so large that even a neutron star cannot resist the tendency of constraction of gravity, it might eventually become a **black hole**.
 
 [Back to catalogue](#catalogue)
 
