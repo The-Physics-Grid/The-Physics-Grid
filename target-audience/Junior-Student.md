@@ -75,12 +75,12 @@ This section will be suitable for students who have just embarked on a journey o
 - **[Space physics](#nuclear-physics)**
 
     - [Star](#star)
+    - [Planet](#planet)
+    - [Solar system](#solar-system)
 
 - **[The Origin of Natural Science](#the-origin-of-natural-science)** √
 
-- **[Competitions](#competitions)** √
-
-- **[Practice questions](#practice-questions)**
+- **[Competitions](#competitions)** 
 
 - **[More references](#more-references)**
 
@@ -1428,7 +1428,7 @@ Stars are not immortal. Like us, they are born somewhere and will inevitably die
 
 - **Star**
 
-    The temperature of the center of the protostar increases as its density increases and is soon high enough for **nuclear fusion** to occur. Hydrogen gas in the center of the star transforms into helium. The energy released by the nuclear reaction produces an outward force which cancels out the inward gravitational force. When the two forces are balanced, the **star** is formed.
+    The temperature of the center of the protostar increases as its density increases and is soon high enough for **nuclear fusion** to occur. Hydrogen gas in the center of the star transforms into helium. The energy released by the nuclear reaction produces an outward force which cancels out the inward gravitational force. When the two forces are balanced, the **star** is formed. This is also called the **main sequence** of the star.
 
 - **Red giant**
 
@@ -1447,6 +1447,77 @@ Stars are not immortal. Like us, they are born somewhere and will inevitably die
     However, the state of neutrons are not stable in the neutron star. They will experience [β-decay](#radiation) and turn into a proton, an electron and an antineutrino, therefore reaching a dynamic equilibrium.
 
     If the mass of the star is so large that even a neutron star cannot resist the tendency of constraction of gravity, it might eventually become a **black hole**.
+
+[Back to catalogue](#catalogue)
+
+### Planet
+
+A **planet** is a spherical, non-luminous object orbiting a [star](#star). Its orbital direction is typically the **same** as the star's rotation (west to east). Generally, a planet must be massive enough to form a **spherical** shape, but it cannot undergo [nuclear fusion](#fusion) reactions like stars. Also, planets must have the ability to clear out smaller bodies from their orbits.
+
+Of the five planets visible to the naked eye in the [solar system](#solar-system), **Mercury**, **Venus**, **Mars**, **Jupiter**, and **Saturn** were discovered long before prehistoric times. After the 16th century, **heliocentrism** replaced **geocentrism**, leading humans to understand that **Earth** itself is a planet. Following the invention of the telescope and the discovery of gravity, **Uranus** and **Neptune** were discovered. In 2006, the International Astronomical Union removed Pluto from the list of planets.
+
+Scientists usually classify planets in the **solar system** based on their properties. There are two main ways to classify them:
+
+**Classification by surface rockiness:**
+
+- **Rocky planets** (also known as **terrestrial planets**)
+
+    Mercury, Venus, Earth, and Mars, with rocky surfaces.
+
+- **Gas giants**
+
+    Jupiter and Saturn, primarily composed of gas.
+
+- **Ice giants**
+
+    Uranus and Neptune, with thick atmospheres and icy surfaces composed primarily of water, methane, and ammonia.
+
+**Classification by apparent motion:**
+
+(This classification method uses Earth as the boundary, so it necessarily ignores Earth.)
+
+- **Inner planets**
+
+    Planets in the solar system that lie within Earth's orbit, including Mercury and Venus.
+
+- **Outer planets**
+
+    Planets in the solar system that lie outside Earth's orbit, including Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+[Back to catalogue](#catalogue)
+
+### Solar system
+
+The **solar system** consists of the **Sun** and the objects orbiting it, bound by its gravity. It formed approximately 4.6 billion years ago. The Sun is a typical [star](#star), maintaining equilibrium through [nuclear fusion](#fusion), fusing hydrogen into helium in its core and releasing this energy in its outer layers.
+
+![Solar system](/images/solar%20system.webp)
+
+Celestial bodies that orbit the Sun are divided into three categories: [planets](#planet), dwarf planets, and small Solar System bodies. Satellites (such as the Moon) do not belong to the small Solar System bodies category because they orbit planets, dwarf planets, or small Solar System bodies rather than the Sun.
+
+The largest celestial bodies orbiting the Sun are the eight planets: the four terrestrial planets (**Mercury**, **Venus**, **Earth**, and **Mars**), the two gas giants (**Jupiter** and **Saturn**), and the two ice giants (**Uranus** and **Neptune**). All terrestrial planets have solid surfaces. In contrast, all giant planets lack defined surfaces, being composed primarily of gas and liquid. Over 99.86% of the solar system's mass is contained in the Sun, with the remaining mass, nearly 90%, contained in Jupiter and Saturn.
+
+#### **Formation of the solar system**
+
+The solar system formed roughly **4.6 billion years ago** through several key stages:  
+
+1. **Collapse of a Molecular Cloud**  
+   A giant interstellar cloud of gas and dust (solar nebula), mostly hydrogen and helium, began collapsing under gravity. Scientists consider that a nearby supernova explosion may have triggered this collapse.  
+
+2. **Protostar Formation**  
+   The densest region at the center became hotter and more compressed, eventually forming the **protosun** (early Sun). The remaining material flattened into a spinning **protoplanetary disk**.  
+
+3. **Planetesimals and Planetary Embryos**  
+   Dust particles in the disk collided and stuck together, growing into kilometer-sized **planetesimals**. These further collided and merged, forming larger **planetary embryos**.  
+
+4. **Planet Formation**  
+   - **Terrestrial planets** (Mercury, Venus, Earth, Mars) formed close to the Sun, where only rocky and metallic materials could solidify.  
+   - **Gas giants** (Jupiter, Saturn) formed farther out, where cold temperatures allowed ice and gas to accumulate, creating massive atmospheres.  
+   - **Ice giants** (Uranus, Neptune) formed even farther, incorporating more icy material.  
+
+5. **Clearing the Debris**  
+   Once the Sun ignited (entering the **main sequence**), **solar winds** blew away leftover gas. Remaining planetesimals became asteroids (e.g., the **asteroid belt**) or icy bodies (e.g., the **Kuiper Belt**).  
+
+The entire process took about **100 million years**, with Earth forming within **30 million years**. 
 
 [Back to catalogue](#catalogue)
 
@@ -1473,6 +1544,10 @@ There is one team from each country, consisting of 5 student players and 2 team 
 The competition will be held for at least two days and five hours each. The first day consists of three theoretical questions, which must be spread across four areas taught in secondary school (mechanics, thermodynamics, electrodynamics, and quantum mechanics) for a total score of 30 points. The other day is to answer one or two experimental questions with a total score of 20 points. The questions of the competition focused on testing the creativity and understanding of physics rather than the skill and speed of mathematical calculations. There will be at least one day off between the two days. Participants must be secondary school students who have not received tertiary education and are under the age of 21 at the end of the competition. Generally speaking, the team consists of five students, one team leader and one deputy team leader.
 
 Olympiad medals and honours are awarded according to the following rules: Gold medals are awarded to the top 8% of participants. The conditions for the silver medal are the best 25% (minus the gold medalist) of the participants. The conditions for the bronze medal are the best 50% (minus the gold and silver medalists) of the participants. The best 67% (minus the gold, silver and bronze medalists) will receive medals. All participants will receive a badge. The contestant with the highest overall score, the highest female overall score, the highest theoretical paper, and the highest experimental paper will receive a special prize.
+
+[Back to catalogue](#catalogue)
+
+## **More references**
 
 [Back to catalogue](#catalogue)
 
