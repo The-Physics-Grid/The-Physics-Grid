@@ -4,7 +4,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 ## **Catalogue**
 
-- **[Motion forces and energy](#motion-forces-and-energy)** √
+- **[Dynamics and classical physics](#dynamics-and-classical-physics)** √
 
     - [Physical quantities and units](#physics-quantities-and-units)
     - [Velocity](#velocity)
@@ -43,7 +43,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Diffraction](#diffraction)
     - [Mirror](#mirror)
 
-- **[Electricity and magnetism](#electricity-and-magnetism)** √
+- **[Electromagnetism](#electromagnetism)** √
 
     - [Charge](#charge)
     - [Static electricity](#static-electricity)
@@ -85,7 +85,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[More references](#more-references)**
 
-## **Motion forces and energy**
+## **Dynamics and classical physics**
 
 ### Physics quantities and units
 
@@ -851,7 +851,7 @@ Curved mirrors are mirrors that reflect light from curved surfaces, and are divi
 
  [Back to catalogue](#catalogue)   
 
-## **Electricity and magnetism**
+## **Electromagnetism**
 
 ### Charge
 
