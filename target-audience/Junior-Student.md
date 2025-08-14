@@ -77,6 +77,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Star](#star)
     - [Planet](#planet)
     - [Solar system](#solar-system)
+    - [Galaxy](#galaxy)
 
 - **[The Origin of Natural Science](#the-origin-of-natural-science)** √
 
@@ -1520,6 +1521,20 @@ The solar system formed roughly **4.6 billion years ago** through several key st
 The entire process took about **100 million years**, with Earth forming within **30 million years**. 
 
 [Back to catalogue](#catalogue)
+
+### Galaxy
+
+A **galaxy** is a gravitationally bound system of [stars](#star), interstellar gas, dust, and dark matter. Galaxies range in size from dwarf galaxies with only a few hundred million stars to massive galaxies with trillions of stars, all orbiting around their center of mass. The **Milky Way** is the galaxy home to our [solar system](#solar-system), including Earth. Galaxies outside the Milky Way are collectively referred to as **extragalactic galaxies**.
+
+Galaxies are classified based on their visual appearance as **elliptical**, **spiral**, or **irregular**. Many galaxies are believed to harbor supermassive black holes at their centers. The black hole at the center of the Milky Way, known as Sagittarius A*, has a mass four million times that of the Sun.
+
+The size of galaxies are extremely large, therefore astronomers use a special unit to describe it, which is the **light year**. A light year is simply defined as the distance travelled by light in one year, which is approximately equal to $9.5 \times 10^{15}$ m.
+
+The diameter of the Milky Way is about 100000 light years, which means a light would take 100000years to travel from one side of the Milky Way to the other.
+
+[Back to catalogue](#catalogue)
+
+
 
 ## **The Origin of Natural Science**
 
