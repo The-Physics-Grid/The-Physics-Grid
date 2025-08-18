@@ -1470,6 +1470,40 @@ The seasons of the north and south hemispheres are always opposite.
 
 [Back to catalogue](#catalogue)
 
+### Satellite
+
+A **satellite** is a celestial body that orbits a [planet](#planet) in a closed, periodic orbit. For example, [Earth](#earth)'s [moon](#moon) is a satellite. Typically, the center of mass of both bodies lies within the planet.
+
+However, if the two bodies have comparable masses, the system they form is generally called a **binary planet system**, rather than a planet and a natural satellite. 
+
+An **artificial satellite**, also known as a satellite unless otherwise specified, is a type of spacecraft built by humans and is the most numerous type. They are launched into space using space vehicles such as launch vehicles and space shuttles, and orbit the Earth or other planets like natural satellites. In addition to their own functions, artificial satellites also raise the hidden danger of space debris.
+
+**Classification by orbit type:**
+- **Geomotor orbit satellite**
+
+    A geostationary satellite orbits the Earth at the equator, with its orbital period matching the Earth's rotation period, which means it remains stationary relative to the ground below it.
+- **Polar orbit satellite**
+
+    Polar orbit satellites orbit the Earth above the meridians, passing over the North and South Pole during each orbit.
+
+[Back to catalogue](#catalogue)
+
+### Moon
+
+The **Moon**, is the [Earth](#earth)'s only **natural satellite**. Its diameter is approximately one-fourth of the Earth's and its mass is approximately 1/81 of the Earth's. Relative to the [planet](#planet) it orbits, it is the largest [satellite](#satellite) in terms of volume and mass. It is also the fifth largest satellite in the Solar System and the second densest satellite in the Solar System, second only to Io.
+
+The Moon's rotation and revolution are **synchronized** (tidally locked), so the same side always faces Earth. As we all know, the Moon does not emit [light](#light), but rather [reflects](#reflection) sunlight. As the relative positions of the Earth, Moon, and Sun change, the proportion of the Moon's surface area that reflects sunlight also changes. This causes what we call the **phases of the Moon**.
+
+![Moon phases](/images/moon-phases-explained.png)
+
+Image sourced from [here](https://www.timeanddate.com/astronomy/moon/phases.html)
+
+A **lunar eclipse** occurs when the moon passes into the Earth's shadow, partially or completely blocking direct sunlight from the part of the moon normally illuminated by sunlight, preventing observers from Earth from seeing the normal lunar phases.
+
+A lunar eclipse occurs when the sun, Earth, and moon are exactly or nearly **aligned**, so it always occurs on a **full moon**. During most full moons, the moon is not in the Earth's shadow but rather to the north or south, so a lunar eclipse does not occur on every full moon. However, at least two lunar eclipses occur globally each year.
+
+[Back to catalogue](#catalogue)
+
 ### Star
 
 A **star** is a **celestial body**, a spherical glowing plasma held together by its own gravity. The **Sun** is the closest star to Earth. The observable universe is estimated to contain between 1022 and 1024 stars, but only about 4,000 are visible to the naked eye. They are all in the **Milky Way**.
