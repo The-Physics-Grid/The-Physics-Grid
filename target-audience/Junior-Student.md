@@ -74,8 +74,9 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Space physics](#nuclear-physics)**
 
-    - [Star](#star)
     - [Planet](#planet)
+    - [Earth](#earth)
+    - [Star](#star)
     - [Solar system](#solar-system)
     - [Galaxy](#galaxy)
 
@@ -1413,6 +1414,62 @@ Since the distance between nuclei must be *very small* for the nuclear force to 
 
 ## **Space physics**
 
+### Planet
+
+A **planet** is a spherical, non-luminous object orbiting a [star](#star). Its orbital direction is typically the **same** as the star's rotation (west to east). Generally, a planet must be massive enough to form a **spherical** shape, but it cannot undergo [nuclear fusion](#fusion) reactions like stars. Also, planets must have the ability to clear out smaller bodies from their orbits.
+
+Of the five planets visible to the naked eye in the [solar system](#solar-system), **Mercury**, **Venus**, **Mars**, **Jupiter**, and **Saturn** were discovered long before prehistoric times. After the 16th century, **heliocentrism** replaced **geocentrism**, leading humans to understand that **Earth** itself is a planet. Following the invention of the telescope and the discovery of gravity, **Uranus** and **Neptune** were discovered. In 2006, the International Astronomical Union removed Pluto from the list of planets.
+
+Scientists usually classify planets in the **solar system** based on their properties. There are two main ways to classify them:
+
+**Classification by surface rockiness:**
+
+- **Rocky planets** (also known as **terrestrial planets**)
+
+    Mercury, Venus, Earth, and Mars, with rocky surfaces.
+
+- **Gas giants**
+
+    Jupiter and Saturn, primarily composed of gas.
+
+- **Ice giants**
+
+    Uranus and Neptune, with thick atmospheres and icy surfaces composed primarily of water, methane, and ammonia.
+
+**Classification by apparent motion:**
+
+(This classification method uses Earth as the boundary, so it necessarily ignores Earth.)
+
+- **Inner planets**
+
+    Planets in the solar system that lie within Earth's orbit, including Mercury and Venus.
+
+- **Outer planets**
+
+    Planets in the solar system that lie outside Earth's orbit, including Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+[Back to catalogue](#catalogue)
+
+### Earth
+
+**Earth** is the third planet from the Sun in the [Solar System](#solar-system), located at an average distance of 149,597,870 kilometers (1 astronomical unit) from the Sun. It is the only celestial body in the universe known to harbor **life**. Its mass is approximately 5.972 × 1024 kg, its average radius is approximately 6,371 kilometers, and its average density is 5.52 g/cm³, the highest of the planets in the Solar System. 
+
+Earth spins on its **axis** (the hypothetical line through its north and south poles). It takes **24 hours** to complete a rotation. During the rotation, the half of Earth's surface facing the Sun is at **daytime**, while the half of Earth's surface facing away from the Sun is at **night**.
+
+![Earth1](/images/Earth1.jpg)
+
+Image sourced from [here](https://www.the-express.com/news/science/176322/Astrophysicist-warns-Earth-s-rotation-is-accelerating-as-shortest-day-in-history-looms)
+
+Earth also orbits the Sun as well. Both this motion and the tilt of the Earth's axis to the plane of its path create the changing of seasons. The hemisphere that is closer to the Sun will be in summer, while the hemisphere that is tilting away from the Sun will be in winter.
+
+![Seasons](/images/earth-seasons_ver_1.jpg)
+
+Image sourced from [here](https://www.twinkl.com.hk/teaching-wiki/earths-rotation-and-revolution)
+
+The seasons of the north and south hemispheres are always opposite.
+
+[Back to catalogue](#catalogue)
+
 ### Star
 
 A **star** is a **celestial body**, a spherical glowing plasma held together by its own gravity. The **Sun** is the closest star to Earth. The observable universe is estimated to contain between 1022 and 1024 stars, but only about 4,000 are visible to the naked eye. They are all in the **Milky Way**.
@@ -1448,42 +1505,6 @@ Stars are not immortal. Like us, they are born somewhere and will inevitably die
     However, the state of neutrons are not stable in the neutron star. They will experience [β-decay](#radiation) and turn into a proton, an electron and an antineutrino, therefore reaching a dynamic equilibrium.
 
     If the mass of the star is so large that even a neutron star cannot resist the tendency of constraction of gravity, it might eventually become a **black hole**.
-
-[Back to catalogue](#catalogue)
-
-### Planet
-
-A **planet** is a spherical, non-luminous object orbiting a [star](#star). Its orbital direction is typically the **same** as the star's rotation (west to east). Generally, a planet must be massive enough to form a **spherical** shape, but it cannot undergo [nuclear fusion](#fusion) reactions like stars. Also, planets must have the ability to clear out smaller bodies from their orbits.
-
-Of the five planets visible to the naked eye in the [solar system](#solar-system), **Mercury**, **Venus**, **Mars**, **Jupiter**, and **Saturn** were discovered long before prehistoric times. After the 16th century, **heliocentrism** replaced **geocentrism**, leading humans to understand that **Earth** itself is a planet. Following the invention of the telescope and the discovery of gravity, **Uranus** and **Neptune** were discovered. In 2006, the International Astronomical Union removed Pluto from the list of planets.
-
-Scientists usually classify planets in the **solar system** based on their properties. There are two main ways to classify them:
-
-**Classification by surface rockiness:**
-
-- **Rocky planets** (also known as **terrestrial planets**)
-
-    Mercury, Venus, Earth, and Mars, with rocky surfaces.
-
-- **Gas giants**
-
-    Jupiter and Saturn, primarily composed of gas.
-
-- **Ice giants**
-
-    Uranus and Neptune, with thick atmospheres and icy surfaces composed primarily of water, methane, and ammonia.
-
-**Classification by apparent motion:**
-
-(This classification method uses Earth as the boundary, so it necessarily ignores Earth.)
-
-- **Inner planets**
-
-    Planets in the solar system that lie within Earth's orbit, including Mercury and Venus.
-
-- **Outer planets**
-
-    Planets in the solar system that lie outside Earth's orbit, including Mars, Jupiter, Saturn, Uranus, and Neptune.
 
 [Back to catalogue](#catalogue)
 
