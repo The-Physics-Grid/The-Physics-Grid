@@ -4,7 +4,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 ## **Catalogue**
 
-- **[Dynamics and classical physics](#dynamics-and-classical-physics)** √
+- **[Dynamics and mechanics](#dynamics-and-mechanics)**
 
     - [Physical quantities and units](#physics-quantities-and-units)
     - [Velocity](#velocity)
@@ -21,7 +21,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Power](#power)
     - [Pressure](#pressure)
 
-- **[Thermal physics](#thermal-physics)** √
+- **[Thermal physics](#thermal-physics)** 
 
     - [Energy](#energy)
     - [Temperature](#temperature)
@@ -31,10 +31,11 @@ This section will be suitable for students who have just embarked on a journey o
     - [Latent heat ](#latent-heat)
     - [Specific thermal capacity](#specific-thermal-capacity)
 
-- **[Waves](#waves)** √
+- **[Waves](#waves)** 
 
     - [Wave property](#wave-property)
     - [Sound](#sound)
+    - [Doppler effect](#doppler-effect)
     - [Electromagnetic waves](#electromagnetic-waves)
     - [Light](#light)
     - [Image](#image)
@@ -43,7 +44,7 @@ This section will be suitable for students who have just embarked on a journey o
     - [Diffraction](#diffraction)
     - [Mirror](#mirror)
 
-- **[Electromagnetism](#electromagnetism)** √
+- **[Electromagnetism](#electromagnetism)** 
 
     - [Charge](#charge)
     - [Static electricity](#static-electricity)
@@ -79,14 +80,17 @@ This section will be suitable for students who have just embarked on a journey o
     - [Star](#star)
     - [Solar system](#solar-system)
     - [Galaxy](#galaxy)
+    - [Redshift](#redshift)
+    - [The Big Bang Theory](#the-big-bang-theory)
+    - [Hubble constant](#hubble-constant)
 
-- **[The Origin of Natural Science](#the-origin-of-natural-science)** √
+- **[The Origin of Natural Science](#the-origin-of-natural-science)** 
 
 - **[Competitions](#competitions)** 
 
 - **[More references](#more-references)**
 
-## **Dynamics and classical physics**
+## **Dynamics and mechanics**
 
 ### Physics quantities and units
 
@@ -717,6 +721,15 @@ In addition, there are many sounds that cannot be heard by normal human ears. Be
 Ultrasound is widely used in life. Learning from bats, radar locates by transmitting and receiving ultrasonic waves. Doctors also use special instruments to emit ultrasound waves to break up stones in the body. Infrasound waves are often accompanied by natural disasters. It is capable of transmitting considerable distances and causing harm to the human body.Generally speaking, when normal people speak, the frequency usually falls between 150~2000HZ.
 
 The so-called scale in music, The frequency of each octave is twice as different (the alto DO Iis about 262Hz, which is twice that of 131HZ of bass DO). Each semitone rate increases by 21/12x (about 1.0595x) in the respective scales.
+
+[Back to catalogue](#catalogue)
+
+### Doppler effect
+
+The **Doppler effect** occurs when the [frequency](#wave-property) of a wave received by an observer differs from the frequency of the wave source when the source and observer are in **relative motion**. The Doppler effect occurs when the whistle of an approaching train becomes sharper (higher frequency, shorter wavelength), while the whistle of a departing train becomes deeper (lower frequency, longer wavelength). The same phenomenon occurs with car horns and train bells.
+
+![Doppler effect](/images/Doppler%20effect.jpg)
+*Image sourced from [here](https://www.geeksforgeeks.org/physics/difference-between-doppler-effect-and-doppler-shift/)*
 
 [Back to catalogue](#catalogue)
 
@@ -1457,14 +1470,12 @@ Scientists usually classify planets in the **solar system** based on their prope
 Earth spins on its **axis** (the hypothetical line through its north and south poles). It takes **24 hours** to complete a rotation. During the rotation, the half of Earth's surface facing the Sun is at **daytime**, while the half of Earth's surface facing away from the Sun is at **night**.
 
 ![Earth1](/images/Earth1.jpg)
-
-Image sourced from [here](https://www.the-express.com/news/science/176322/Astrophysicist-warns-Earth-s-rotation-is-accelerating-as-shortest-day-in-history-looms)
+*Image sourced from [here](https://www.the-express.com/news/science/176322/Astrophysicist-warns-Earth-s-rotation-is-accelerating-as-shortest-day-in-history-looms)*
 
 Earth also orbits the Sun as well. Both this motion and the tilt of the Earth's axis to the plane of its path create the changing of seasons. The hemisphere that is closer to the Sun will be in summer, while the hemisphere that is tilting away from the Sun will be in winter.
 
 ![Seasons](/images/earth-seasons_ver_1.jpg)
-
-Image sourced from [here](https://www.twinkl.com.hk/teaching-wiki/earths-rotation-and-revolution)
+*Image sourced from [here](https://www.twinkl.com.hk/teaching-wiki/earths-rotation-and-revolution)*
 
 The seasons of the north and south hemispheres are always opposite.
 
@@ -1495,8 +1506,7 @@ The **Moon**, is the [Earth](#earth)'s only **natural satellite**. Its diameter 
 The Moon's rotation and revolution are **synchronized** (tidally locked), so the same side always faces Earth. As we all know, the Moon does not emit [light](#light), but rather [reflects](#reflection) sunlight. As the relative positions of the Earth, Moon, and Sun change, the proportion of the Moon's surface area that reflects sunlight also changes. This causes what we call the **phases of the Moon**.
 
 ![Moon phases](/images/moon-phases-explained.png)
-
-Image sourced from [here](https://www.timeanddate.com/astronomy/moon/phases.html)
+*Image sourced from [here](https://www.timeanddate.com/astronomy/moon/phases.html)*
 
 A **lunar eclipse** occurs when the moon passes into the Earth's shadow, partially or completely blocking direct sunlight from the part of the moon normally illuminated by sunlight, preventing observers from Earth from seeing the normal lunar phases.
 
@@ -1589,6 +1599,44 @@ The diameter of the Milky Way is about 100000 light years, which means a light w
 
 [Back to catalogue](#catalogue)
 
+### Redshift
+
+Astronomers discover that the light from burning hydrogen in distant [galaxies](#galaxy) appears to be **redshifted** comparing to light from hydrogen on [Earth](#earth). This means the observed [wavelength](#wave-property) is longer than the wavelength of the original light at the source. Since red light has the longest wavelength on the visible light spectrum, this phenomenum is named as "redshift".
+
+The reason of redshift is the [Doppler effect](#doppler-effect) of light. Doppler effect states that when a wave source is in relative motion with an observer, the observer sees decreased wavelength when the source is moving towards it and increased wavelength when the source is leaving from it. This will appear as color change in terms of visible light. Scientists therefore infer that those galaxies are **moving away** from the Earth.
+
+[Back to catalogue](#catalogue)
+
+### The Big Bang Theory
+
+The **Big Bang Theory** is a cosmological model that describes the origin and evolution of the universe. This model is the most extensive and precise supported by current scientific research and observations.
+
+![Big Bang](/images/Big-Bang-Theory-Featured.webp)
+*Image sourced from [here](https://sciquest.org/what-is-the-big-bang-theory-science-big-bang-theory-faqs/)*
+
+In cosmology, the "Big Bang" generally refers to the universe evolving from an extremely dense and hot initial singularity some finite time in the past, and then continuing to expand to its present state. In 1929, American physicist **Edwin Hubble** discovered through observation that the distance from Earth to distant [galaxies](#galaxy) is proportional to the [redshift](#redshift) of the light emitted by these galaxies, thus deducing the concept of cosmic expansion. Hubble's observations showed that all distant galaxies and galaxy clusters are moving away from our observation point at visual velocity, and the farther away, the greater the velocity. If the distance between galaxies and clusters is currently increasing, it means that they were very close in the past. From this point of view, physicists further speculate that in the past, the universe was in a state of extremely high density and temperature.
+
+The Big Bang theory cannot provide any description or explanation of the **initial state** of the universe. In fact, what it can describe and explain is the evolution of the universe after the initial state.
+
+[Back to catalogue](#catalogue)
+
+### Hubble constant
+
+American physicist **Edwin Hubble** discovered that the [galaxies](#galaxy) that are further away from [Earth](#earth) shows a greater increase in [redshift](#redshift). He then determined a relationship between the speed of a galaxy and its distance from Earth. This is **Hubble's law**, which states that: 
+
+*The speed of recession is proportional to the distance of the galaxy away from Earth.*
+
+This law can be expressed as an equation:
+
+$$
+v = H_0 \, d
+$$
+
+where $ H_0 $ is the Hubble constant with a unit of $ s^{-1} $, v represents the [velocity](#velocity) of a celestial body moving away from Earth and d represents the distance between the celestial body and the Earth. 
+
+The current estimate for $ H_0 $ is $ 2.2 \times 10^{-18} s^{-1} $.
+
+[Back to catalogue](#catalogue)
 
 
 ## **The Origin of Natural Science**
