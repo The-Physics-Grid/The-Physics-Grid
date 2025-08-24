@@ -88,6 +88,10 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[Competitions](#competitions)** 
 
+    - [The Senior Physics Challenge](#the-senior-physics-challenge)
+    - [Physics Bowl](#physics-bowl)
+    - [The International Physics Olympiad](#the-international-physics-olympiad)
+
 - **[More references](#more-references)**
 
 ## **Dynamics and mechanics**
@@ -1653,6 +1657,28 @@ It is generally believed that the ancient Greeks Thales and Aristotle were the f
 
 As for competitions, we will introduce some physics competitions suitable for junior students who are willing to improve themselves.
 
+### The Senior Physics Challenge
+
+The Senior Physics Challenge (SPC) is easier than [IPhO](#the-international-physics-olympiad) comparatively since it is specially designed for high school students in UK. It  is an exciting opportunity for students to stretch their problem solving skills and apply fundamental physical principles to novel situations. It is also held once a year. 
+
+The SPC contains two alternative competitions: SPC Online and Senior Physics Challenge Competition (on paper). The two competitions are merely at the same level and you do not need to take part in both in order to win a prize. The online competition is usually held in the last week of January, while the SPC on paper is usually held in March. The form and content of the two competitions are slightly different, but the overall difficulty is similar.
+
+SPC Online consists of two 30-minute sets of multiple choice questions which are largely about physics ideas, but also encouraging some wider reading and interest in the subject. It is an opportunity for students to take part in a national physics competition and to develop their confidence in the subject. It is definitely a quiz which is accessible to sound students but not an ''Olympiad Challenge''. The length of the test will be 2 x 30 minutes (can be sat on different days if required) with each 30-minute section containing 20 questions. The participants must take the test in their school supervised by the teacher. It may not be sat by students at home. The papers will be marked online.
+
+The Senior Physics Challenge Competition (on paper) is the traditional problem based set of questions. It is not only for students who have done some preparation, but for all those who like to engage in problem solving questions and developing those skills. The length of the competition will be 1 hour, and the students are also asked to sit within their schools and be supervised by their teachers. The papers are marked within schools by registered teachers using the mark scheme provided.
+
+[Back to catalogue](#catalogue)
+
+### Physics Bowl
+
+The Physics Bowl competition has a 30-year history and is hosted by the American Association of Physics Teachers (AAPT). The Physics Bowl competition is widely recognized worldwide, especially by top universities in North America, which regard it as an important indicator of students' physics ability.
+
+Physics Bowl covers a wide range of topics, making it difficult to find a textbook that perfectly matches the topic. International high school physics curriculums often lack coverage, and using university physics textbooks directly is often too complex and challenging.
+
+The Physics Bowl competition is an international high school competition. School teams compete regionally against other school teams. Students will take a supervised, 40-question, 45-minute, timed, multiple-choice test. To enhance prize distribution, the first group consists of first-year physics students, and the second group consists of second-year physics students. Each division has 15 regions nationwide, with schools in each region competing against each other. Specialized math and science schools compete in their own regions.
+
+[Back to catalogue](#catalogue)
+
 ### The International Physics Olympiad
 
 The International Physics Olympiad (IPhO) is a physics competition for middle school students, as a kind of international science Olympiad, the International Physics Olympiad is held once a year. The first edition was held in Warsaw, Poland in 1967.
@@ -1666,6 +1692,12 @@ Olympiad medals and honours are awarded according to the following rules: Gold m
 [Back to catalogue](#catalogue)
 
 ## **More references**
+
+The content of this section is arranged with reference to the following materials. 
+
+- *Junior high school physics textbook* published by China People's Education Press
+- *IGCSE Physics* of CIE
+- *[Wikipedia](https://www.wikipedia.org/)*
 
 [Back to catalogue](#catalogue)
 

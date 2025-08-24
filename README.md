@@ -24,7 +24,7 @@
 If you are a student who wants to self-study or needs help while learning physics, information in this section may offer effective help to you. You might be able to look up for definitions and explanations or concepts. Please choose accordingly if you are a:
 
 - [**Junior**](target-audience/Junior-Student.md)
-- [**Senior**](senior-student.md)
+- [**Senior**](target-audience/Senior-Student.md)
 
 ## Branches of Physics
 
