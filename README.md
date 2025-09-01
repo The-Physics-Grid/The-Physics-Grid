@@ -18,15 +18,9 @@
 - **Categorized Resources**: We categorize resources using different categories and tags, making it easy for users to search and filter quickly.
 - **Real-Time Updates**: We regularly update and maintain resources to ensure that the information on the platform is always up-to-date and complete.
 
-
-## Levels
-
-If you are a student who wants to self-study or needs help while learning physics, information in this section may offer effective help to you. You might be able to look up for definitions and explanations or concepts. Please choose accordingly if you are a:
-
-- [**Junior**](target-audience/Junior-Student.md)
-- [**Senior**](target-audience/Senior-Student.md)
-
 ## Branches of Physics
+
+> *We have not yet started building this part of the repository due to my limited personal learning progress. If you are willing to help with the construction, we would greatly appreciate it.*
 
 In this section, we provide a general introduction for and collect various materials related to each discipline from the perspective of physics disciplines. If you are looking for further and more professional information about a specific field, this section may help.
 
@@ -43,6 +37,14 @@ In this section, we provide a general introduction for and collect various mater
 - [**Optics**](/branches/optics.md): Studies the relationship between light and matter. It primarily deals with issues related to the structure of light, the structure of light, and the structure of light.
 - [**Other**](branches/other.md): Other physics fields.
 
+## Physicists
+
+The 'Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
+
+- [Encyclopedia of Physicists](physicists/Encyclopedia%20of%20Physicists.md)
+
+- [Nobel Prize Physicists](physicists/nobel-prizes.md)
+
 ## Physics Software
 
 In this section, we have collected various software and tools related to physics, including:
@@ -58,61 +60,20 @@ In this section, we have collected various software and tools related to physics
 - [Geophysics](software/geophysics.md)
 - [High Energy Physics](software/high-energy-physics.md)
 
+## Physics for Beginners
 
+If you are a student who wants to self-study or needs help while learning physics, information in this section may offer effective help to you. You might be able to look up for definitions and explanations or concepts. Please choose accordingly if you are a:
 
-## Physics Courses
+- [**Junior**](target-audience/Junior-Student.md)
+- [**Senior**](target-audience/Senior-Student.md)
 
-The 'Physics Courses' section is a collection of online and in-person courses related to physics. This section provides users with an overview of courses that cover a wide range of topics in physics, from basic concepts to advanced topics in specific sub-fields.
+## Physics Awards
 
-The section includes information on courses offered by universities, online learning platforms, and other institutions. Each course listing includes important details such as the course title, description, instructor, and duration, allowing users to easily find and sign up for courses that match their interests and skill levels.
+This list of physics prizes on Wikipedia is an index of articles on notable awards in the field. It includes awards from the American Physical Society and the Institute of Physics, as well as awards established by the region and country where the awarding institution is located. The awards are not necessarily given to individuals from the recipient's home country.
 
-In addition to traditional courses, the section also includes information on physics-related workshops and seminars that provide opportunities for hands-on learning and collaboration with other students and professionals in the field.
+This list is constantly updated and may not meet specific standards of completeness. You can help by adding missing entries from reliable sources.
 
-Overall, the 'Physics Courses' section is a valuable resource for anyone interested in studying physics, whether they are beginners or experienced professionals looking to expand their knowledge and skills.
-
-[Details](courses.md)
-
-## Physics Conferences
-
-The 'Physics Conferences' section is a collection of upcoming conferences, symposiums, workshops, and other events related to physics. This section provides users with an overview of important events in the field, allowing them to stay up-to-date with the latest research and developments, as well as to connect with other professionals in the field.
-
-The section includes information on a wide range of physics-related events, from general physics conferences to specialized events focused on specific sub-fields, such as astrophysics, particle physics, or condensed matter physics. Each event listing includes important details such as the date, location, organizers, and registration information, allowing users to easily find and sign up for events that are of interest to them.
-
-Overall, the 'Physics Conferences' section is a valuable resource for physicists and other professionals in the field, providing them with access to important events and opportunities for networking, collaboration, and professional development.
-
-[Details](conferences.md)
-
-## Physicists
-
-The 'Physicists' section is a collection of physicists who had or have made outstanding contributions to physics. This section comprises the great physicists' life stories and their astonishing achievements.
-
-- [Encyclopedia of Physicists](physicists/Encyclopedia%20of%20Physicists.md)
-
-- [Nobel Prize Physicists](physicists/nobel-prizes.md)
-
-## [Physics Awards](https://en.wikipedia.org/wiki/List_of_physics_awards)
-
-This list of physics awards is an index to articles about notable awards for physics. The list includes lists of awards by the American Physical Society of the United States, and of the Institute of Physics of the United Kingdom, followed by a list organized by region and country of the organization that gives the award. Awards are not necessarily restricted to people from the country of the award giver.
-
-This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
-
-## Physics Books,Journals and Magazines
-
-The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, to stay up-to-date with the latest research and developments in the field, and to offer some entertaining readings to physics enthusiasts.
-
-[Details](books.md)
-
-## Physics Movies & Documentaries
-
-The 'Physics Movies' section is a collection of movies and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries.
-
-[Details](details/movies.md)
-
-## Physics News & Events
-
-The 'Physics News' section is a collection of the latest news and developments in the field of physics. This section provides users with a quick overview of recent discoveries, breakthroughs, and other important news in the field, allowing them to stay up-to-date with the latest developments.
-
-[Details](news.md)
+[Go to the list](https://en.wikipedia.org/wiki/List_of_physics_awards)
 
 ## Physics Competitions
 
@@ -132,6 +93,54 @@ The competitions cover a wide range of physics fields, from fundamental physics 
 
 - **International Physics Teachers Award (IPTA)**: Awarded annually, physics teachers from around the world can participate.
 
+## Physics Movies & Documentaries
+
+The 'Physics Movies' section is a collection of movies and documentaries about physics studies and lives of the great physicists. This section helps us better understand physics through the objective authenticity of documentaries.
+
+[Details](details/movies.md)
+
+## Physics Books,Journals and Magazines
+
+> *We have not yet started building this part of the repository. If you are willing to help with the construction, we would greatly appreciate it.*
+
+The 'Physics Books & Magazines' section is a collection of recommended books and magazines related to physics. This section is designed to help users find useful resources for studying physics, to stay up-to-date with the latest research and developments in the field, and to offer some entertaining readings to physics enthusiasts.
+
+[Details](books.md)
+
+## Physics Courses
+
+> *We have not yet started building this part of the repository. If you are willing to help with the construction, we would greatly appreciate it.*
+
+The 'Physics Courses' section is a collection of online and in-person courses related to physics. This section provides users with an overview of courses that cover a wide range of topics in physics, from basic concepts to advanced topics in specific sub-fields.
+
+The section includes information on courses offered by universities, online learning platforms, and other institutions. Each course listing includes important details such as the course title, description, instructor, and duration, allowing users to easily find and sign up for courses that match their interests and skill levels.
+
+In addition to traditional courses, the section also includes information on physics-related workshops and seminars that provide opportunities for hands-on learning and collaboration with other students and professionals in the field.
+
+Overall, the 'Physics Courses' section is a valuable resource for anyone interested in studying physics, whether they are beginners or experienced professionals looking to expand their knowledge and skills.
+
+[Details](courses.md)
+
+## Physics Conferences
+
+> *We have not yet started building this part of the repository. If you are willing to help with the construction, we would greatly appreciate it.*
+
+The 'Physics Conferences' section is a collection of upcoming conferences, symposiums, workshops, and other events related to physics. This section provides users with an overview of important events in the field, allowing them to stay up-to-date with the latest research and developments, as well as to connect with other professionals in the field.
+
+The section includes information on a wide range of physics-related events, from general physics conferences to specialized events focused on specific sub-fields, such as astrophysics, particle physics, or condensed matter physics. Each event listing includes important details such as the date, location, organizers, and registration information, allowing users to easily find and sign up for events that are of interest to them.
+
+Overall, the 'Physics Conferences' section is a valuable resource for physicists and other professionals in the field, providing them with access to important events and opportunities for networking, collaboration, and professional development.
+
+[Details](conferences.md)
+
+## Physics News & Events
+
+> *We have not yet started building this part of the repository. If you are willing to help with the construction, we would greatly appreciate it.*
+
+The 'Physics News' section is a collection of the latest news and developments in the field of physics. This section provides users with a quick overview of recent discoveries, breakthroughs, and other important news in the field, allowing them to stay up-to-date with the latest developments.
+
+[Details](news.md)
+
 ## How to Contribute
 
 We welcome and appreciate your contribution to this project in various ways:
@@ -147,10 +156,13 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 The following is a comprehensive list of references and sources that have informed or been cited in the content of this repository (ranking in no particular order).
 
 - [Wikipedia](https://www.wikipedia.org/)
-- [Save My Exams](https://www.savemyexams.com/)
 - [Google Images](https://www.google.com/imghp?hl=zh-CN&ogbl)
 - [Bilibili](https://www.bilibili.com/)
+- [Youtube](https://www.youtube.com/)
 - [The Nobel Prize](https://www.nobelprize.org/)
+- [OpenCourseWare](https://ocw.mit.edu/)
+- [PhET](https://phet.colorado.edu/)
+- [Save My Exams](https://www.savemyexams.com/)
 
 ## License
 

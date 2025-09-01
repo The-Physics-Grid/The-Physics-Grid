@@ -1689,6 +1689,8 @@ The competition will be held for at least two days and five hours each. The firs
 
 Olympiad medals and honours are awarded according to the following rules: Gold medals are awarded to the top 8% of participants. The conditions for the silver medal are the best 25% (minus the gold medalist) of the participants. The conditions for the bronze medal are the best 50% (minus the gold and silver medalists) of the participants. The best 67% (minus the gold, silver and bronze medalists) will receive medals. All participants will receive a badge. The contestant with the highest overall score, the highest female overall score, the highest theoretical paper, and the highest experimental paper will receive a special prize.
 
+[Learn more about it](http://www.ipho-new.org/)
+
 [Back to catalogue](#catalogue)
 
 ## **More references**
