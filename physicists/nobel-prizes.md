@@ -10,8 +10,8 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 | California Institute of Technology                        | USA            | 9                      |
 | Stanford University                         | USA            | 9                      |
 | Harvard University                          | USA            | 9                      |
-| University of Cambridge                     | UK | 8                      |
-| University of California, Berkeley          | USA            | 8                      |
+| University of California, Berkeley          | USA            | 9 
+| University of Cambridge                     | UK | 8                      |                     |
 | Massachusetts Institute of Technology (MIT) | USA            | 8                      |
 | P.N. Lebedev Physical Institute             | Russia         | 6                      |
 | University of Chicago                       | USA            | 5                      |
@@ -21,7 +21,7 @@ Based on the statistics of all the Nobel Prize winners in physics over the years
 
 | Country        | Number of Nobel Prizes |
 | -------------- | ---------------------- |
-| USA            | 73                     |
+| USA            | 74                     |
 | Germany        | 28                     |
 | United Kingdom | 24                     |
 | Japan          | 12                     |
@@ -38,11 +38,21 @@ The Nobel Prize in Physics has been awarded 116 times to 222 Nobel Prize laureat
 
 https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics
 
+## **2025**
+
+> **for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit**
+
+- [John Clarke](https://www.nobelprize.org/prizes/physics/2025/clarke/facts/) (b.1942-02-10) ![Fisicallab](../images/Flag_of_the_United_Kingdom.svg.png) **UK**
+
+- [Michel H. Devoret](https://www.nobelprize.org/prizes/physics/2025/devoret/facts/) (b.1953-03-05) ![Fisicallab](../images/Flag_of_France.svg.png) **France**
+
+- [John M. Martinis](https://www.nobelprize.org/prizes/physics/2025/martinis/facts/) (b.1958) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+
 ## **2024**
 
 > **for foundational discoveries and inventions that enable machine learning with artificial neural networks**
 
-- [John J. Hopfield](https://www.nobelprize.org/prizes/physics/2024/hopfield/facts/) (b. 1933-07-15) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
+- [John J. Hopfield](https://www.nobelprize.org/prizes/physics/2024/hopfield/facts/) (b.1933-07-15) ![Fisicallab](../images/23px-Flag_of_the_United_States.svg.png) **USA**
 
 - [Geoffrey](https://www.nobelprize.org/prizes/physics/2024/hinton/facts/) (b.1947-12-06) ![Fisicallab](../images/Flag_of_the_United_Kingdom.svg.png) **UK**
 
