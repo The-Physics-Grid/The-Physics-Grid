@@ -56,7 +56,11 @@ This section will be suitable for students who have already learned about basic 
 
 ## **Kinematics**
 
+### Displacement
+
 ### SUVAT equations
+
+
 
 [Back to catalogue](#catalogue)
 

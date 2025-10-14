@@ -4,9 +4,10 @@ This section will be suitable for students who have just embarked on a journey o
 
 ## **Catalogue**
 
-- **[Dynamics and mechanics](#dynamics-and-mechanics)**
+- **[Kinetics and mechanics](#kinetics-and-mechanics)**
 
     - [Physical quantities and units](#physics-quantities-and-units)
+    - [Displacement](#displacement)
     - [Velocity](#velocity)
     - [Acceleration](#acceleration)
     - [Weight](#weight)
@@ -94,7 +95,7 @@ This section will be suitable for students who have just embarked on a journey o
 
 - **[More references](#more-references)**
 
-## **Dynamics and mechanics**
+## **Kinetics and mechanics**
 
 ### Physics quantities and units
 
@@ -109,6 +110,24 @@ Various physical quantities have their own measurement units, and the quantity o
 
 [Back to catalogue](#catalogue)
 
+### Displacement
+
+**Displacement** in physics is a **vector** quantity that refers to a change in **position**. For example, if we move from an old position $r_1$ to a new position $r_2$, the displacement is $Δr = r_2 − r_1$. Displacement is actually the *straight line distance* between the starting point and the ending point of the motion of an object - it is only related to the positions but not the path. Displacement is measured in [SI base unit](#physics-quantities-and-units) meter (m).
+
+Comparatively, **distance** is the word we use to describe the length of the path of an object's motion and is a scalar quantity. Displacement and distance do *not* necessarily share the same magnitude although in many cases they do (usually when the object is moving towards one single direction and does not turn nor go backwards, more typically the uniform motion). 
+
+For example, if a particle moves straight forward to a point 5m away from the origin, both the distance it moved and the magnitude of its displacement will be 5m. However, if the particle is in a [circular motion](#circular-motion) and returns to its start point after completing one cycle, the distance it travelled will be the perimeter of the circle whereas the displacement will be 0, as its position has not changed at the end of the motion.
+
+For **uniform motion** in which the [velocity](#velocity) of the object does not change and the object is not accelerating, we use the following formula to calculate both the displacement and the distance (since they share the same magnitude in this case):
+
+$$x=vt$$
+
+where x stands for displacement, v stands for velocity and t stands for the time when the object is in motion. If this is used to calculate distance, the velocity should be replaced by speed.
+
+When it comes to accelerating motions, we will use the so-called **"SUVAT equations"**, which are introduced in the [Senior-Students Section](/target-audience/Senior-Student.md/)
+
+[Back to catalogue](#catalogue)
+
 
 ### Velocity
 
@@ -118,7 +137,7 @@ The velocity of an object is the rate of change of its position with respect to 
 
 Velocity is a basic concept in kinematics, a branch of classical mechanics that describes the motion of an object. If the velocity, direction, or both are changed, the velocity of the object changes and it is said to be accelerating.
 
-Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called velocity and is a coherently derived unit whose quantity is measured in SI (metric) in meters per second (m/s) or as the SI base unit of (m⋅s-1). For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
+Velocity is a physical vector quantity; both amplitude and direction are required to define it. The absolute scalar value (magnitude) of velocity is called speed and is a coherently derived unit whose quantity is measured in meters per second, which is usually written as $m⋅s^{-1}$. For example, "5 meters per second" is a scalar quantity, while "5 meters per second in the east" is a vector.
 
 Velocity is defined as the rate of change of a position with respect to time and can also be referred to as instantaneous velocity to emphasize the difference from average velocity. The average velocity of an object over a period of time t is the ratio of its displacement d to the time interval during that time:
 
@@ -1007,15 +1026,15 @@ Usually, if wires are connected together, we draw a dot on the circuit diagram w
 
     1. The amount of current passing through every component is the same, which is also equal to the total current in the circuit.
 
-        **I=I₁=I₂=I₃=...**
+        $$I=I₁=I₂=I₃=...$$
 
     2. The voltage across all circuit components adds up to the supply voltage, or the EMF of the battery. The voltage across each component is directly proportional to its resistance.
 
-        **V=V₁+V₂+V₃+...**
+        $$V=V₁+V₂+V₃+...$$
 
     3. The resistance of all circuit components adds up to the total resistance of the circuit.
 
-        **R=R₁+R₂+R₃+...**
+        $$R=R₁+R₂+R₃+...$$
 
 - **Parallel circuit:**
 
@@ -1027,15 +1046,15 @@ Usually, if wires are connected together, we draw a dot on the circuit diagram w
 
     1. The amount of current passing through all circuit components adds up to the total amount of current in the circuit. The amount of current passing through each component is inversely proportional to its resistance.
 
-         **I=I₁+I₂+I₃+...**
+         $$I=I₁+I₂+I₃+...$$
 
     2. The voltage across every component is the same, which is also equal to the EMF of the power supply in this case above.
 
-         **V=V₁=V₂=V₃=...**
+         $$V=V₁=V₂=V₃=...$$
 
     3. The reciprocal of the resistance of all the components adds up to the reciprocal of the total resistance of the circuit. 
 
-        **1/R=1/R₁+1/R₂+1/R₃+...**
+        $$\frac{1}{R}=\frac{1}{R₁}+\frac{1}{R₂}+\frac{1}{R₃}+...$$
 
 
 [Back to catalogue](#catalogue) 
