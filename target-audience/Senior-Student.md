@@ -16,6 +16,7 @@ This section will be suitable for students who have already learned about basic 
     - [Work-energy principle](#work-energy-principle)
     - [Motion with resistance](#motion-with-resistance)
     - [Circular motion](#circular-motion)
+    - [Simple harmonic motion](#simple-harmonic-motion)
     - [Upthrust](#upthrust)
 
 - **[Statics](#statics)**
@@ -34,6 +35,13 @@ This section will be suitable for students who have already learned about basic 
     - [Elastic potential energy](#elastic-potential-energy)
 
 - **[Thermal physics](#thermal-physics)**
+
+    - [Temperature](#temperature)
+    - [Internal energy](#internal-energy)
+    - [Thermal equilibrium](#thermal-equilibrium)
+    - [Ideal gas](#ideal-gas)
+    - [Entropy](#entropy)
+    - [The laws of thermodynamics](#the-laws-of-thermodynamics)
 
 - **[Electromagnetics](#electromagnetics)**
 
@@ -89,6 +97,10 @@ This section will be suitable for students who have already learned about basic 
 
 [Back to catalogue](#catalogue)
 
+### Simple harmonic motion
+
+[Back to catalogue](#catalogue)
+
 ### Upthrust
 
 [Back to catalogue](#catalogue)
@@ -135,7 +147,31 @@ This section will be suitable for students who have already learned about basic 
 
 ## **Thermal physics**
 
+### Temperature
 
+[Back to catalogue](#catalogue)
+
+### Internal energy
+
+[Back to catalogue](#catalogue)
+
+### Thermal equilibrium
+
+[Back to catalogue](#catalogue)
+
+### Ideal gas
+
+[Back to catalogue](#catalogue)
+
+### Entropy
+
+[Back to catalogue](#catalogue)
+
+### Kinetic theory of gas
+
+[Back to catalogue](#catalogue)
+
+### The laws of thermodynamics
 
 [Back to catalogue](#catalogue)
 
