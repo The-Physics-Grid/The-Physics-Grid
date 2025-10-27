@@ -45,6 +45,26 @@ This section will be suitable for students who have already learned about basic 
 
 - **[Electromagnetics](#electromagnetics)**
 
+    - [Electric field](#electric-field)
+    - [Electric force](#electric-force)
+    - [Electric potential](#electric-potential)
+    - [Electric potential energy](#electric-potential-energy)
+    - [Internal resistance](#internal-resistance)
+    - [Kirchhoff's first law](#kirchhoffs-first-law)
+    - [Kirchhoff's second law](#kirchhoffs-second-law)
+    - [Potentiometer](#potentiometer)
+    - [Galvanometer](#galvanometer)
+    - [Capacitor](#capacitor)
+    - [Magnetic flux](#magnetic-flux)
+    - [Magnetic flux linkage](#magnetic-flux-linkage)
+    - [Lorentz force](#lorentz-force)
+    - [Hall voltage](#hall-voltage)
+    - [Faraday's law](#faradays-law)
+    - [Lenz's law](#lenzs-law)
+    - [Alternating current](#alternating-current)
+    - [Rectification](#rectification)
+    - [Smoothing](#smoothing)
+
 - **[Wave theory](#wave-theory)**
 
     - [Progressive wave](#progressive-wave)
@@ -60,7 +80,28 @@ This section will be suitable for students who have already learned about basic 
 
 - **[Nuclear physics](#nuclear-physics)**
 
+    - [Nuclear decay](#nuclear-decay)
+    - [Activity](#activity)
+    - [Decay constant](#decay-constant)
+    - [Half life](#half-life)
+    - [Equivalence of mass and energy](#equivalence-of-mass-and-energy)
+    - [Mass defect](#mass-defect)
+    - [Binding energy](#binding-energy)
+
 - **[Quantum physics](#quantum-physics)**
+
+    - [Fundamental particles](#fundamental-particles)
+    - [Quarks](#quarks)
+    - [Photon](#photon)
+    - [Electronvolt](#electronvolt)
+    - [Photoelectric effect](#photoelectric-effect)
+    - [Threshold frequency](#threshold-frequency)
+    - [Work function](#work-function)
+    - [Wave-particle duality](#wave-particle-duality)
+    - [The de Broglie wavelength](#the-de-broglie-wavelength)
+    - [Atomic energy levels](#atomic-energy-levels)
+    - [Line spectra](#line-spectra)
+    - [Discrete energy](#discrete-energy)
 
 ## **Kinematics**
 
@@ -177,6 +218,80 @@ This section will be suitable for students who have already learned about basic 
 
 ## **Electromagnetics**
 
+### Electric field
+
+[Back to catalogue](#catalogue)
+
+### Electric Force
+
+[Back to catalogue](#catalogue)
+
+### Electric potential
+
+[Back to catalogue](#catalogue)
+
+### Electric potential energy
+
+[Back to catalogue](#catalogue)
+
+### Internal resistance
+
+[Back to catalogue](#catalogue)
+
+### Kirchhoff's first law
+
+[Back to catalogue](#catalogue)
+
+### Kirchhoff's second law
+
+[Back to catalogue](#catalogue)
+
+### Potentiometer
+
+[Back to catalogue](#catalogue)
+
+### Galvanometer
+
+[Back to catalogue](#catalogue)
+
+### Capacitor
+
+[Back to catalogue](#catalogue)
+
+### Magnetic flux
+
+[Back to catalogue](#catalogue)
+
+### Magnetic flux linkage
+
+[Back to catalogue](#catalogue)
+
+### Lorentz force
+
+[Back to catalogue](#catalogue)
+
+### Hall voltage
+
+[Back to catalogue](#catalogue)
+
+### Faraday's law
+
+[Back to catalogue](#catalogue)
+
+### Lenz's law
+
+[Back to catalogue](#catalogue)
+
+### Alternating current
+
+[Back to catalogue](#catalogue)
+
+### Rectification
+
+[Back to catalogue](#catalogue)
+
+### Smoothing
+
 [Back to catalogue](#catalogue)
 
 ## **Wave theory**
@@ -223,8 +338,80 @@ This section will be suitable for students who have already learned about basic 
 
 ## **Nuclear physics**
 
+### Nuclear decay
+
+[Back to catalogue](#catalogue)
+
+### Activity
+
+[Back to catalogue](#catalogue)
+
+### Decay constant
+
+[Back to catalogue](#catalogue)
+
+### Half life
+
+[Back to catalogue](#catalogue)
+
+### Equivalence of mass and energy
+
+[Back to catalogue](#catalogue)
+
+### Mass defect
+
+[Back to catalogue](#catalogue)
+
+### Binding energy
+
 [Back to catalogue](#catalogue)
 
 ## **Quantum physics**
+
+### Fundamental particles
+
+[Back to catalogue](#catalogue)
+
+### Quarks
+
+[Back to catalogue](#catalogue)
+
+### Photon
+
+[Back to catalogue](#catalogue)
+
+### Electronvolt
+
+[Back to catalogue](#catalogue)
+
+### Photoelectric effect
+
+[Back to catalogue](#catalogue)
+
+### Threshold Frequency
+
+[Back to catalogue](#catalogue)
+
+### Work function
+
+[Back to catalogue](#catalogue)
+
+### Wave-particle duality
+
+[Back to catalogue](#catalogue)
+
+### The de Broglie wavelength
+
+[Back to catalogue](#catalogue)
+
+### Atomic energy levels
+
+[Back to catalogue](#catalogue)
+
+### Line spectra
+
+[Back to catalogue](#catalogue)
+
+### Discrete energy
 
 [Back to catalogue](#catalogue)
